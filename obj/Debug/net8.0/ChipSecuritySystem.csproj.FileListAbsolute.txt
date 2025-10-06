@@ -1,0 +1,13 @@
+/Users/mx/Downloads/ChipSecuritySystem/obj/Debug/net8.0/ChipSecuritySystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mx/Downloads/ChipSecuritySystem/obj/Debug/net8.0/ChipSecuritySystem.csproj.CoreCompileInputs.cache
+/Users/mx/Downloads/ChipSecuritySystem/bin/Debug/net8.0/ChipSecuritySystem
+/Users/mx/Downloads/ChipSecuritySystem/bin/Debug/net8.0/ChipSecuritySystem.dll.config
+/Users/mx/Downloads/ChipSecuritySystem/bin/Debug/net8.0/ChipSecuritySystem.deps.json
+/Users/mx/Downloads/ChipSecuritySystem/bin/Debug/net8.0/ChipSecuritySystem.runtimeconfig.json
+/Users/mx/Downloads/ChipSecuritySystem/bin/Debug/net8.0/ChipSecuritySystem.dll
+/Users/mx/Downloads/ChipSecuritySystem/bin/Debug/net8.0/ChipSecuritySystem.pdb
+/Users/mx/Downloads/ChipSecuritySystem/obj/Debug/net8.0/ChipSecuritySystem.dll
+/Users/mx/Downloads/ChipSecuritySystem/obj/Debug/net8.0/refint/ChipSecuritySystem.dll
+/Users/mx/Downloads/ChipSecuritySystem/obj/Debug/net8.0/ChipSecuritySystem.pdb
+/Users/mx/Downloads/ChipSecuritySystem/obj/Debug/net8.0/ChipSecuritySystem.genruntimeconfig.cache
+/Users/mx/Downloads/ChipSecuritySystem/obj/Debug/net8.0/ref/ChipSecuritySystem.dll
